@@ -56,7 +56,7 @@ INICIO
     objetivo ← "Luis mendoza"
 
     izquierda ← 0
-    derecha ← 49
+    derecha ← Len(datos)
 
     encontrado ← FALSO
 
