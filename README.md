@@ -1,2 +1,0 @@
-# Diccionario
-Diccionario telefonito telefonico
